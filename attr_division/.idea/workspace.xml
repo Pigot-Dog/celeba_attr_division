@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0395fc01-12bd-405f-b8a5-f7d0f3bd0619" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bwb5V8pvHdjnvanOS9qwTdRS7p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="attr_division" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name=" attr_division" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/attr_division.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.attr_division" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0395fc01-12bd-405f-b8a5-f7d0f3bd0619" name="Default Changelist" comment="" />
+      <created>1589545919173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589545919173</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="771" y="293" width="424" height="518" key="FileChooserDialogImpl" timestamp="1589548932524">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="771" y="293" width="424" height="518" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1589548932524" />
+    <state width="1826" height="275" key="GridCell.Tab.0.bottom" timestamp="1589554216015">
+      <screen x="67" y="294" width="3773" height="1053" />
+    </state>
+    <state width="1826" height="275" key="GridCell.Tab.0.bottom/67.294.3773.1053@67.294.3773.1053" timestamp="1589554216015" />
+    <state width="1826" height="275" key="GridCell.Tab.0.center" timestamp="1589554216015">
+      <screen x="67" y="294" width="3773" height="1053" />
+    </state>
+    <state width="1826" height="275" key="GridCell.Tab.0.center/67.294.3773.1053@67.294.3773.1053" timestamp="1589554216015" />
+    <state width="1826" height="275" key="GridCell.Tab.0.left" timestamp="1589554216015">
+      <screen x="67" y="294" width="3773" height="1053" />
+    </state>
+    <state width="1826" height="275" key="GridCell.Tab.0.left/67.294.3773.1053@67.294.3773.1053" timestamp="1589554216015" />
+    <state width="1826" height="275" key="GridCell.Tab.0.right" timestamp="1589554216015">
+      <screen x="67" y="294" width="3773" height="1053" />
+    </state>
+    <state width="1826" height="275" key="GridCell.Tab.0.right/67.294.3773.1053@67.294.3773.1053" timestamp="1589554216015" />
+  </component>
+</project>
